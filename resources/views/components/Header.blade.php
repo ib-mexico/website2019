@@ -30,8 +30,8 @@
                         <div class="header_content d-flex flex-row align-items-center justfy-content-start">
                             <div class="logo_container">
                                 <a href="#">
-                                    <div class="logo"><img src="{{ asset('images/IB-MEXICO.jpg') }}" class="img-responsive" /></div>
-                                    <div class="logo_sub">Soluciones a la medida</div>
+                                    <div class="logo"><img src="{{ asset('images/ibmweb-2019.png') }}" class="img-responsive" /></div>
+                                    <!--div class="logo_sub">Soluciones a la medida</div-->
                                 </a>
                             </div>
                             <div class="header_extra ml-auto d-flex flex-row align-items-center justify-content-start">
